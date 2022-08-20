@@ -1,0 +1,15 @@
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+    header{
+        width:320px;
+        font-size: 10px;
+    }
+    .boxservices{
+        width: 525%;
+    }
+  }
